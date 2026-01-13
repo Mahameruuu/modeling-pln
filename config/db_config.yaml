@@ -4,10 +4,3 @@ mysql:
   user: "username"
   password: "password"
   database: "db_name"
-
-  # host: "192.168.40.44"
-  # port: 3306
-  # user: "root"
-  # password: "P@ssw0rd"
-
-  # database: "db_bat_tja1"
