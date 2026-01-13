@@ -1,7 +1,8 @@
 mysql:
   # db_prod_tja2
-  host: "192.168.31.31"
-  port: 33055
-  user: "bat_smart_sopt"
-  password: "P@ssw0rd"
-  database: "db_bat_tja2"
+  host: "hostname"
+  port: 3306
+  user: "username"
+  password: "password"
+
+  database: "db_name"
