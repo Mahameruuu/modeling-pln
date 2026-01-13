@@ -1,0 +1,1163 @@
+{
+  "FURNACE FRONT AND LEFT": [
+    {
+      "name": "STEAM TEMP OUT PLATEN SH",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0A:TC1A012101.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A011407.PNT",
+          "EWS102/10DAS0A:TC1A011604.PNT",
+          "EWS102/10DAS0A:TC1A012104.PNT",
+          "EWS102/10DAS0A:TC1A011605.PNT",
+          "EWS102/10DAS0A:TC1A012105.PNT",
+          "EWS102/10DAS0A:PT1A010104.PNT",
+          "EWS102/10DAS0A:PT1A010204.PNT",
+          "EWS102/10DAS0A:PT1A010304.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER L OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0E:TC1E047103.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0D:TC1D027101.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY WATER FLOW",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0A:FT1A010503.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:FT1A010401.PNT",
+          "EWS102/10DAS0A:TC1A011503.PNT",
+          "EWS102/10DAS0A:TC1A011406.PNT",
+          "EWS102/10DAS0A:TC1A011504.PNT"
+        ]
+      }
+    },
+    {
+      "name": "STEAM FLOW",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DISP:STEAMFLOWB.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0A:FT1A010105.PNT",
+          "EWS102/10DAS0A:FT1A010205.PNT",
+          "EWS102/10DAS0A:FT1A010305.PNT",
+          "EWS102/10DAS0A:PT1A010104.PNT",
+          "EWS102/10DAS0A:PT1A010204.PNT",
+          "EWS102/10DAS0A:PT1A010304.PNT"
+        ]
+      }
+    }
+  ],
+
+  "FURNACE BACK AND RIGHT": [
+    {
+      "name": "STEAM TEMP OUT PLATEN SH",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0A:TC1A012101.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A011604.PNT",
+          "EWS102/10DAS0A:TC1A012104.PNT",
+          "EWS102/10DAS0A:TC1A011605.PNT",
+          "EWS102/10DAS0A:TC1A012105.PNT",
+          "EWS102/10DAS0A:PT1A010104.PNT",
+          "EWS102/10DAS0A:PT1A010204.PNT",
+          "EWS102/10DAS0A:PT1A010304.PNT",
+          "EWS102/10DAS0A:TC1A011407.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER R OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0E:TC1E047203.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0D:TC1D027203.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY WATER FLOW",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0A:FT1A010401.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A011404.PNT",
+          "EWS102/10DAS0A:TC1A011405.PNT",
+          "EWS102/10DAS0A:TC1A011505.PNT"
+        ]
+      }
+    },
+    {
+      "name": "STEAM FLOW",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DISP:STEAMFLOWB.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0A:FT1A010105.PNT",
+          "EWS102/10DAS0A:FT1A010205.PNT",
+          "EWS102/10DAS0A:FT1A010305.PNT",
+          "EWS102/10DAS0A:PT1A010104.PNT",
+          "EWS102/10DAS0A:PT1A010204.PNT",
+          "EWS102/10DAS0A:PT1A010304.PNT"
+        ]
+      }
+    }
+  ],
+
+  "PANEL SH L": [
+    {
+      "name": "DELTA STEAM TEMP AT PANEL-PLATEN SH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode": "SINGLE",
+            "tags":[
+              "EWS102/10DAS0A:TC1A012101.PNT"
+            ]
+          },
+          "right":{
+            "mode": "AVG",
+            "tags":[
+              "EWS102/10DAS0A:TC1A011406.PNT",
+              "EWS102/10DAS0A:TC1A011504.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A011604.PNT",
+          "EWS102/10DAS0A:TC1A012104.PNT",
+          "EWS102/10DAS0A:TC1A011605.PNT",
+          "EWS102/10DAS0A:TC1A012105.PNT",
+          "EWS102/10DAS0A:TC1A012106.PNT",
+          "EWS102/10DAS0A:TC1A011407.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER L OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0E:TC1E047103.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0D:TC1D027101.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY WATER FLOW",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0A:FT1A010503.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A011503.PNT",
+          "EWS102/10DAS0A:TC1A011406.PNT",
+          "EWS102/10DAS0A:TC1A011504.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 2ND SPRAY IN STM TEMP(L)",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0A:TC1A012101.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A012102.PNT",
+          "EWS102/10DAS0A:TC1A011603.PNT",
+          "EWS102/10DAS0A:FT1A010601.PNT"
+        ]
+      }
+    }
+  ],
+
+  "PANEL SH R": [
+    {
+      "name": "DELTA STEAM TEMP AT PANEL-PLATEN SH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0A:TC1A011601.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0A:TC1A011405.PNT",
+              "EWS102/10DAS0A:TC1A011505.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A011604.PNT",
+          "EWS102/10DAS0A:TC1A012104.PNT",
+          "EWS102/10DAS0A:TC1A011605.PNT",
+          "EWS102/10DAS0A:TC1A012105.PNT",
+          "EWS102/10DAS0A:TC1A011606.PNT",
+          "EWS102/10DAS0A:TC1A011407.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER R OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0E:TC1E047203.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0D:TC1D027203.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY WATER FLOW",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0A:FT1A010401.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A011404.PNT",
+          "EWS102/10DAS0A:TC1A011405.PNT",
+          "EWS102/10DAS0A:TC1A011505.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 2ND SPRAY IN STM TEMP(R)",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0A:TC1A011601.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A011602.PNT",
+          "EWS102/10DAS0A:TC1A012103.PNT",
+          "EWS102/10DAS0A:FT1A011204.PNT"
+        ]
+      }
+    }
+  ],
+
+  "REHEAT L": [
+    {
+      "name": "SH.FIN.OUT HEADER L OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0E:TC1E047103.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0D:TC1D027101.PNT"
+        ]
+      }
+    },
+    {
+      "name": "MAIN STM TEMP",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0M:TC1M053102.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A011604.PNT",
+          "EWS102/10DAS0A:TC1A012104.PNT",
+          "EWS102/10DAS0A:TC1A011605.PNT",
+          "EWS102/10DAS0A:TC1A012105.PNT",
+          "EWS102/10DAS0A:PT1A010104.PNT",
+          "EWS102/10DAS0A:PT1A010204.PNT",
+          "EWS102/10DAS0A:PT1A010304.PNT",
+          "EWS102/10DAS0A:TC1A011407.PNT"
+        ]
+      }
+    },
+    {
+      "name": "L RH OUT STM TEMP",
+      "symbol": "<",
+      "target": {
+        "avg": {
+          "StemTempAvg":[
+            "EWS102/10DAS0A:TC1A012203.PNT",
+            "EWS102/10DAS0A:TC1A012305.PNT"
+          ]
+        },
+        "single": []
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A012304.PNT",
+          "EWS102/10DAS0M:TC1M053202.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Steam Temp Platen RH - Final RH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0A:TC1A012203.PNT",
+              "EWS102/10DAS0A:TC1A012305.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0A:TC1A011507.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A012304.PNT",
+          "EWS102/10DAS0M:TC1M053202.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Steam Temp Final SH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0A:TC1A011605.PNT",
+              "EWS102/10DAS0A:TC1A012105.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0A:TC1A012102.PNT",
+              "EWS102/10DAS0A:TC1A011603.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0M:TC1M053102.PNT",
+          "EWS102/10DAS0A:TC1A011407.PNT"
+        ]
+      }
+    }
+  ],
+
+  "REHEAT R": [
+    {
+      "name": "SH.FIN.OUT HEADER R OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0E:TC1E047203.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0D:TC1D027203.PNT"
+        ]
+      }
+    },
+    {
+      "name": "MAIN STM TEMP",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0M:TC1M053102.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A011604.PNT",
+          "EWS102/10DAS0A:TC1A012104.PNT",
+          "EWS102/10DAS0A:TC1A011605.PNT",
+          "EWS102/10DAS0A:TC1A012105.PNT",
+          "EWS102/10DAS0A:PT1A010104.PNT",
+          "EWS102/10DAS0A:PT1A010204.PNT",
+          "EWS102/10DAS0A:PT1A010304.PNT",
+          "EWS102/10DAS0A:TC1A011407.PNT"
+        ]
+      }
+    },
+    {
+      "name": "R RH OUT STM TEMP",
+      "symbol": "<",
+      "target": {
+        "avg": {
+          "StemTempAvg":[
+            "EWS102/10DAS0A:TC1A012204.PNT",
+            "EWS102/10DAS0A:TC1A012306.PNT"
+          ] 
+        },
+        "single": []
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A012304.PNT",
+          "EWS102/10DAS0M:TC1M053202.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Steam Temp Platen RH - Final RH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0A:TC1A012204.PNT",
+              "EWS102/10DAS0A:TC1A012306.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0A:TC1A011506.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0A:TC1A012304.PNT",
+          "EWS102/10DAS0M:TC1M053202.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Steam Temp Final SH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0A:TC1A011604.PNT",
+              "EWS102/10DAS0A:TC1A012104.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0A:TC1A011602.PNT",
+              "EWS102/10DAS0A:TC1A012103.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0M:TC1M053102.PNT",
+          "EWS102/10DAS0A:TC1A011407.PNT"
+        ]
+      }
+    }
+  ],
+  
+  "LTSH L": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0E:PT1E032601.PNT",
+              "EWS102/10DAS0D:PT1D012602.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:PT1E032602.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0B:PT1B020701.PNT",
+          "EWS102/10DAS0B:PT1B021101.PNT",
+          "EWS102/10DAS0B:PT1B021201.PNT",
+          "EWS102/10DAS0B:PT1B021306.PNT",
+          "EWS102/10DAS0B:PT1B020407.PNT",
+          "EWS102/10DAS0B:PT1B021202.PNT",
+          "EWS102/10FFLOW:AIN12.PNT",
+          "EWS102/10FFLOW:AIN13.PNT",
+          "EWS102/10FFLOW:AIN14.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0D:TC1D027101.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:TC1E047101.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0E:TC1E047103.PNT",
+          "EWS102/10DAS0E:TC1E047201.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY IN STM TEMP(L)",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0A:TC1A011503.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER L OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0E:TC1E047103.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0D:TC1D027101.PNT"
+        ]
+      }
+    }
+  ],
+
+  "LTSH R": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0E:PT1E033601.PNT",
+              "EWS102/10DAS0D:PT1D013602.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:PT1E033602.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0B:PT1B020701.PNT",
+          "EWS102/10DAS0B:PT1B021101.PNT",
+          "EWS102/10DAS0B:PT1B021201.PNT",
+          "EWS102/10DAS0B:PT1B021306.PNT",
+          "EWS102/10DAS0B:PT1B020103.PNT",
+          "EWS102/10DAS0B:PT1B020203.PNT",
+          "EWS102/10FFLOW:AIN3.PNT",
+          "EWS102/10FFLOW:AIN4.PNT",
+          "EWS102/10FFLOW:AIN5.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0D:TC1D027203.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:TC1E047102.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0E:TC1E047203.PNT",
+          "EWS102/10DAS0E:TC1E047202.PNT",
+          "EWS102/10DAS0D:TC1D027203.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY IN STM TEMP(R)",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0A:TC1A011404.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER L OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["EWS102/10DAS0E:TC1E047203.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0D:TC1D027203.PNT"
+        ]
+      }
+    }
+  ],
+
+  "ECONOMIZER L": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:PT1E032602.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0E:PT1E032603.PNT",
+              "EWS102/10DAS0D:PT1D012603.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0B:PT1B020701.PNT",
+          "EWS102/10DAS0B:PT1B021101.PNT",
+          "EWS102/10DAS0B:PT1B021201.PNT",
+          "EWS102/10DAS0B:PT1B021306.PNT",
+          "EWS102/10DAS0B:PT1B020407.PNT",
+          "EWS102/10DAS0B:PT1B021202.PNT",
+          "EWS102/10FFLOW:AIN12.PNT",
+          "EWS102/10FFLOW:AIN13.PNT",
+          "EWS102/10FFLOW:AIN14.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:TC1E047101.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:TC1E047201.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0E:TC1E047103.PNT",
+          "EWS102/10DAS0D:TC1D027201.PNT",
+          "EWS102/10DAS0D:TC1D027202.PNT",
+          "EWS102/10DAS0D:TC1D027102.PNT"
+        ]
+      }
+    },
+    {
+      "name": "LMTD",
+      "symbol": ">",
+      "target": {
+        "avg": {
+            "LMTD_Avg1": [
+                "EWS102/10DAS0E:TC1E047101.PNT"
+            ],
+            "LMTD_Avg2": [
+                "EWS102/10DAS0A:TC1A012205.PNT"
+            ],
+            "LMTD_Avg3": [
+                "EWS102/10DAS0E:TC1E047201.PNT"
+            ],
+            "LMTD_Avg4": [
+                "EWS102/10DAS0A:TC1A011401.PNT"
+            ]
+        },
+        "single": []
+        },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0E:TC1E047103.PNT",
+          "EWS102/10DAS0E:TC1E047201.PNT",
+          "EWS102/10DAS0A:FT1A010105.PNT",
+          "EWS102/10DAS0A:FT1A010205.PNT",
+          "EWS102/10DAS0A:FT1A010305.PNT"
+        ]
+      }
+    }
+  ],
+
+  "ECONOMIZER R": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:PT1E033602.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0E:PT1E033603.PNT",
+              "EWS102/10DAS0E:PT1E032604.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0B:PT1B020701.PNT",
+          "EWS102/10DAS0B:PT1B021101.PNT",
+          "EWS102/10DAS0B:PT1B021201.PNT",
+          "EWS102/10DAS0B:PT1B021306.PNT",
+          "EWS102/10DAS0B:PT1B020103.PNT",
+          "EWS102/10DAS0B:PT1B020203.PNT",
+          "EWS102/10FFLOW:AIN3.PNT",
+          "EWS102/10FFLOW:AIN4.PNT",
+          "EWS102/10FFLOW:AIN5.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol":"<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:TC1E047102.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:TC1E047202.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0E:TC1E047203.PNT",
+          "EWS102/10DAS0E:TC1E047104.PNT",
+          "EWS102/10DAS0E:TC1E047105.PNT",
+          "EWS102/10DAS0E:TC1E047204.PNT"
+        ]
+      }
+    },
+    {
+      "name": "LMTD",
+      "symbol": ">",
+      "target": {
+        "avg": {
+            "LMTD_Avg1": [
+                "EWS102/10DAS0E:TC1E047102.PNT"
+            ],
+            "LMTD_Avg2": [
+                "EWS102/10DAS0A:TC1A012303.PNT"
+            ],
+            "LMTD_Avg3": [
+                "EWS102/10DAS0E:TC1E047202.PNT"
+            ],
+            "LMTD_Avg4": [
+                "EWS102/10DAS0A:TC1A011401.PNT"
+            ]
+        },
+        "single": []
+        },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0E:TC1E047203.PNT",
+          "EWS102/10DAS0E:TC1E047202.PNT",
+          "EWS102/10DAS0A:FT1A010105.PNT",
+          "EWS102/10DAS0A:FT1A010205.PNT",
+          "EWS102/10DAS0A:FT1A010305.PNT"
+        ]
+      }
+    }
+  ],
+
+  "APH L": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0E:PT1E032603.PNT",
+              "EWS102/10DAS0D:PT1D012603.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0D:PT1D013603.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0B:PT1B020701.PNT",
+          "EWS102/10DAS0B:PT1B021101.PNT",
+          "EWS102/10DAS0B:PT1B021201.PNT",
+          "EWS102/10DAS0B:PT1B021306.PNT",
+          "EWS102/10DAS0B:PT1B020407.PNT",
+          "EWS102/10DAS0B:PT1B021202.PNT",
+          "EWS102/10FFLOW:AIN12.PNT",
+          "EWS102/10FFLOW:AIN13.PNT",
+          "EWS102/10FFLOW:AIN14.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:TC1E047201.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0D:RT1D012706.PNT",
+              "EWS102/10DAS0D:RT1D026402.PNT",
+              "EWS102/10DAS0D:RT1D012307.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0E:TC1E047103.PNT",
+          "EWS102/10DAS0E:TC1E047201.PNT"
+        ]
+      }
+    },
+    {
+      "name": "LMTD",
+      "symbol": ">",
+      "target": {
+        "avg": {
+          "LMTD_Avg1": [
+            "EWS102/10DAS0D:TC1D027201.PNT",
+            "EWS102/10DAS0D:TC1D027202.PNT",
+            "EWS102/10DAS0D:TC1D027102.PNT"
+          ],
+          "LMTD_Avg2": [
+            "EWS102/10DAS0B:TC1B023101.PNT",
+            "EWS102/10DAS0B:TC1B023102.PNT"
+          ],
+          "LMTD_Avg3": [
+            "EWS102/10DAS0D:RT1D012706.PNT",
+            "EWS102/10DAS0D:RT1D026402.PNT",
+            "EWS102/10DAS0D:RT1D012307.PNT"
+          ],
+          "LMTD_Avg4": [
+            "EWS102/10DAS0D:RT1D026404.PNT",
+            "EWS102/10DAS0D:RT1D026406.PNT"
+          ]
+        },
+        "single": []
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT"
+        ]
+      }
+    }
+  ],
+
+  "APH R": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0E:PT1E033603.PNT",
+              "EWS102/10DAS0E:PT1E032604.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:PT1E033604.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0B:PT1B020701.PNT",
+          "EWS102/10DAS0B:PT1B021101.PNT",
+          "EWS102/10DAS0B:PT1B021201.PNT",
+          "EWS102/10DAS0B:PT1B021306.PNT",
+          "EWS102/10DAS0B:PT1B020103.PNT",
+          "EWS102/10DAS0B:PT1B020203.PNT",
+          "EWS102/10FFLOW:AIN3.PNT",
+          "EWS102/10FFLOW:AIN4.PNT",
+          "EWS102/10FFLOW:AIN5.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "EWS102/10DAS0E:TC1E047202.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "EWS102/10DAS0E:RT1E032706.PNT",
+              "EWS102/10DAS0E:RT1E046502.PNT",
+              "EWS102/10DAS0E:RT1E032307.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT",
+          "EWS102/10DAS0E:TC1E047203.PNT",
+          "EWS102/10DAS0E:TC1E047202.PNT"
+        ]
+      }
+    },
+    {
+      "name": "LMTD",
+      "symbol": ">",
+      "target": {
+        "avg": {
+          "LMTD_Avg1": [
+            "EWS102/10DAS0E:TC1E047104.PNT",
+            "EWS102/10DAS0E:TC1E047105.PNT",
+            "EWS102/10DAS0E:TC1E047204.PNT"
+          ],
+          "LMTD_Avg2": [
+            "EWS102/10DAS0B:TC1B023201.PNT",
+            "EWS102/10DAS0B:TC1B023202.PNT"
+          ],
+          "LMTD_Avg3": [
+            "EWS102/10DAS0E:RT1E032706.PNT",
+            "EWS102/10DAS0E:RT1E046502.PNT",
+            "EWS102/10DAS0E:RT1E032307.PNT"
+          ],
+          "LMTD_Avg4": [
+            "EWS102/10DAS0E:RT1E046504.PNT",
+            "EWS102/10DAS0E:RT1E046506.PNT"
+          ]
+        },
+        "single": []
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "EWS102/10DAS0O:AI1O013305.PNT"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1163 @@
+{
+  "FURNACE FRONT AND LEFT": [
+    {
+      "name": "STEAM TEMP OUT PLATEN SH",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0A:TC2A012101.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011407.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011604.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012104.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011605.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012105.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010104.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010204.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010304.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER L OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0E:TC2E047103.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027101.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY WATER FLOW",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0A:FT2A010503.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010401.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011503.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011406.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011504.PNT"
+        ]
+      }
+    },
+    {
+      "name": "STEAM FLOW",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DISP:STEAMFLOWB.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0A:FT2A010105.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010205.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010305.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010104.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010204.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010304.PNT"
+        ]
+      }
+    }
+  ],
+
+  "FURNACE BACK AND RIGHT": [
+    {
+      "name": "STEAM TEMP OUT PLATEN SH",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0A:TC2A012101.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011604.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012104.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011605.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012105.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010104.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010204.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010304.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011407.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER R OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0E:TC2E047203.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027203.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY WATER FLOW",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0A:FT2A010401.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011404.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011405.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011505.PNT"
+        ]
+      }
+    },
+    {
+      "name": "STEAM FLOW",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DISP:STEAMFLOWB.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0A:FT2A010105.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010205.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010305.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010104.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010204.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010304.PNT"
+        ]
+      }
+    }
+  ],
+
+  "PANEL SH L": [
+    {
+      "name": "DELTA STEAM TEMP AT PANEL-PLATEN SH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode": "SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A012101.PNT"
+            ]
+          },
+          "right":{
+            "mode": "AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A011406.PNT",
+              "OPC1.U2RO.20DAS0A:TC2A011504.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011604.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012104.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011605.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012105.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012106.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011407.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER L OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0E:TC2E047103.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027101.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY WATER FLOW",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0A:FT2A010503.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011503.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011406.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011504.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 2ND SPRAY IN STM TEMP(L)",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0A:TC2A012101.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012102.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011603.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010601.PNT"
+        ]
+      }
+    }
+  ],
+
+  "PANEL SH R": [
+    {
+      "name": "DELTA STEAM TEMP AT PANEL-PLATEN SH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A011601.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A011405.PNT",
+              "OPC1.U2RO.20DAS0A:TC2A011505.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011604.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012104.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011605.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012105.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011606.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011407.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER R OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0E:TC2E047203.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027203.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY WATER FLOW",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0A:FT2A010401.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011404.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011405.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011505.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 2ND SPRAY IN STM TEMP(R)",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0A:TC2A011601.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011602.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012103.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A011204.PNT"
+        ]
+      }
+    }
+  ],
+
+  "REHEAT L": [
+    {
+      "name": "SH.FIN.OUT HEADER L OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0E:TC2E047103.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027101.PNT"
+        ]
+      }
+    },
+    {
+      "name": "MAIN STM TEMP",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0M:TC2M053102.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011604.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012104.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011605.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012105.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010104.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010204.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010304.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011407.PNT"
+        ]
+      }
+    },
+    {
+      "name": "L RH OUT STM TEMP",
+      "symbol": "<",
+      "target": {
+        "avg": {
+          "RhOutSteamTemp":[
+            "OPC1.U2RO.20DAS0A:TC2A012203.PNT",
+            "OPC1.U2RO.20DAS0A:TC2A012305.PNT"
+          ]
+        },
+        "single": []
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012304.PNT",
+          "OPC1.U2RO.20DAS0M:TC2M053202.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Steam Temp Platen RH - Final RH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A012203.PNT",
+              "OPC1.U2RO.20DAS0A:TC2A012305.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A011507.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012304.PNT",
+          "OPC1.U2RO.20DAS0M:TC2M053202.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Steam Temp Final SH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A011605.PNT",
+              "OPC1.U2RO.20DAS0A:TC2A012105.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A012102.PNT",
+              "OPC1.U2RO.20DAS0A:TC2A011603.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0M:TC2M053102.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011407.PNT"
+        ]
+      }
+    }
+  ],
+  
+  "REHEAT R": [
+    {
+      "name": "SH.FIN.OUT HEADER R OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0E:TC2E047203.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027203.PNT"
+        ]
+      }
+    },
+    {
+      "name": "MAIN STM TEMP",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0M:TC2M053102.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011604.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012104.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011605.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012105.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010104.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010204.PNT",
+          "OPC1.U2RO.20DAS0A:PT2A010304.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011407.PNT"
+        ]
+      }
+    },
+    {
+      "name": "R RH OUT STM TEMP",
+      "symbol": "<",
+      "target": {
+        "avg": {
+          "RhOutSteamTemp":[
+            "OPC1.U2RO.20DAS0A:TC2A012204.PNT",
+            "OPC1.U2RO.20DAS0A:TC2A012306.PNT"
+          ]
+        },
+        "single": []
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012304.PNT",
+          "OPC1.U2RO.20DAS0M:TC2M053202.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Steam Temp Platen RH - Final RH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A012204.PNT",
+              "OPC1.U2RO.20DAS0A:TC2A012306.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A011506.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A012304.PNT",
+          "OPC1.U2RO.20DAS0M:TC2M053202.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Steam Temp Final SH",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A011604.PNT",
+              "OPC1.U2RO.20DAS0A:TC2A012104.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0A:TC2A011602.PNT",
+              "OPC1.U2RO.20DAS0A:TC2A012103.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0M:TC2M053102.PNT",
+          "OPC1.U2RO.20DAS0A:TC2A011407.PNT"
+        ]
+      }
+    }
+  ],
+
+  "LTSH L": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:PT2E032601.PNT",
+              "OPC1.U2RO.20DAS0D:PT2D012602.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:PT2E032602.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020701.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021101.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021201.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021306.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020407.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021202.PNT",
+          "OPC1.U2RO.20FFLOW:AIN12.PNT",
+          "OPC1.U2RO.20FFLOW:AIN13.PNT",
+          "OPC1.U2RO.20FFLOW:AIN14.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0D:TC2D027101.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:TC2E047101.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047103.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047201.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY IN STM TEMP(L)",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0A:TC2A011503.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER L OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0E:TC2E047103.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027101.PNT"
+        ]
+      }
+    }
+  ],
+  
+  "LTSH R": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:PT2E033601.PNT",
+              "OPC1.U2RO.20DAS0D:PT2D013602.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:PT2E033602.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020701.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021101.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021201.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021306.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020103.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020203.PNT",
+          "OPC1.U2RO.20FFLOW:AIN3.PNT",
+          "OPC1.U2RO.20FFLOW:AIN4.PNT",
+          "OPC1.U2RO.20FFLOW:AIN5.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0D:TC2D027203.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:TC2E047102.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047203.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047202.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027203.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH 1ST SPRAY IN STM TEMP(R)",
+      "symbol": "<",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0A:TC2A011404.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT"
+        ]
+      }
+    },
+    {
+      "name": "SH.FIN.OUT HEADER R OUT GAS TEMP",
+      "symbol": ">",
+      "target": {
+        "avg": {},
+        "single": ["OPC1.U2RO.20DAS0E:TC2E047203.PNT"]
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027203.PNT"
+        ]
+      }
+    }
+  ],
+
+  
+  "ECONOMIZER L": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:PT2E032602.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:PT2E032603.PNT",
+              "OPC1.U2RO.20DAS0D:PT2D012603.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020701.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021101.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021201.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021306.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020407.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021202.PNT",
+          "OPC1.U2RO.20FFLOW:AIN12.PNT",
+          "OPC1.U2RO.20FFLOW:AIN13.PNT",
+          "OPC1.U2RO.20FFLOW:AIN14.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:TC2E047101.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:TC2E047201.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047103.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027201.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027202.PNT",
+          "OPC1.U2RO.20DAS0D:TC2D027102.PNT"
+        ]
+      }
+    },
+    {
+      "name": "LMTD",
+      "symbol": ">",
+      "target": {
+        "avg": {
+            "LMTD_Avg1": [
+              "OPC1.U2RO.20DAS0E:TC2E047101.PNT"
+            ],
+            "LMTD_Avg2": [
+              "OPC1.U2RO.20DAS0A:TC2A012205.PNT"
+            ],
+            "LMTD_Avg3": [
+              "OPC1.U2RO.20DAS0E:TC2E047201.PNT"
+            ],
+            "LMTD_Avg4": [
+              "OPC1.U2RO.20DAS0A:TC2A011401.PNT"
+            ]
+        },
+        "single": []
+        },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047103.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047201.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010105.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010205.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010305.PNT"
+        ]
+      }
+    }
+  ],
+
+  "ECONOMIZER R": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:PT2E033602.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:PT2E033603.PNT",
+              "OPC1.U2RO.20DAS0E:PT2E032604.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020701.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021101.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021201.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021306.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020103.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020203.PNT",
+          "OPC1.U2RO.20FFLOW:AIN3.PNT",
+          "OPC1.U2RO.20FFLOW:AIN4.PNT",
+          "OPC1.U2RO.20FFLOW:AIN5.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:TC2E047102.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:TC2E047202.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047203.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047104.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047105.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047204.PNT"
+        ]
+      }
+    },
+    {
+      "name": "LMTD",
+      "symbol": ">",
+      "target": {
+        "avg": {
+            "LMTD_Avg1": [
+              "OPC1.U2RO.20DAS0E:TC2E047102.PNT"
+            ],
+            "LMTD_Avg2": [
+              "OPC1.U2RO.20DAS0A:TC2A012303.PNT"
+            ],
+            "LMTD_Avg3": [
+              "OPC1.U2RO.20DAS0E:TC2E047202.PNT"
+            ],
+            "LMTD_Avg4": [
+              "OPC1.U2RO.20DAS0A:TC2A011401.PNT"
+            ]
+        },
+        "single": []
+        },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047203.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047202.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010105.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010205.PNT",
+          "OPC1.U2RO.20DAS0A:FT2A010305.PNT"
+        ]
+      }
+    }
+  ],
+
+  "APH L": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:PT2E032603.PNT",
+              "OPC1.U2RO.20DAS0D:PT2D012603.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0D:PT2D013603.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020701.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021101.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021201.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021306.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020407.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021202.PNT",
+          "OPC1.U2RO.20FFLOW:AIN12.PNT",
+          "OPC1.U2RO.20FFLOW:AIN13.PNT",
+          "OPC1.U2RO.20FFLOW:AIN14.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:TC2E047201.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0D:RT2D012706.PNT",
+              "OPC1.U2RO.20DAS0D:RT2D026402.PNT",
+              "OPC1.U2RO.20DAS0D:RT2D012307.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047103.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047201.PNT"
+        ]
+      }
+    },
+    {
+      "name": "LMTD",
+      "symbol": ">",
+      "target": {
+        "avg": {
+          "LMTD_Avg1": [
+            "OPC1.U2RO.20DAS0D:TC2D027201.PNT",
+            "OPC1.U2RO.20DAS0D:TC2D027202.PNT",
+            "OPC1.U2RO.20DAS0D:TC2D027102.PNT"
+          ],
+          "LMTD_Avg2": [
+            "OPC1.U2RO.20DAS0B:TC2B023101.PNT",
+            "OPC1.U2RO.20DAS0B:TC2B023102.PNT"
+          ],
+          "LMTD_Avg3": [
+            "OPC1.U2RO.20DAS0D:RT2D012706.PNT",
+            "OPC1.U2RO.20DAS0D:RT2D026402.PNT",
+            "OPC1.U2RO.20DAS0D:RT2D012307.PNT"
+          ],
+          "LMTD_Avg4": [
+            "OPC1.U2RO.20DAS0D:RT2D026404.PNT",
+            "OPC1.U2RO.20DAS0D:RT2D026406.PNT"
+          ]
+        },
+        "single": []
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT"
+        ]
+      }
+    }
+  ],
+  
+  "APH R": [
+    {
+      "name": "Delta Pressure",
+      "symbol": ">",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:PT2E033603.PNT",
+              "OPC1.U2RO.20DAS0E:PT2E032604.PNT"
+            ]
+          },
+          "right":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:PT2E033604.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0B:PT2B020701.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021101.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021201.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B021306.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020103.PNT",
+          "OPC1.U2RO.20DAS0B:PT2B020203.PNT",
+          "OPC1.U2RO.20FFLOW:AIN3.PNT",
+          "OPC1.U2RO.20FFLOW:AIN4.PNT",
+          "OPC1.U2RO.20FFLOW:AIN5.PNT"
+        ]
+      }
+    },
+    {
+      "name": "Delta Temperatur",
+      "symbol": "<",
+      "target": {
+        "delta":{
+          "left":{
+            "mode":"SINGLE",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:TC2E047202.PNT"
+            ]
+          },
+          "right":{
+            "mode":"AVG",
+            "tags":[
+              "OPC1.U2RO.20DAS0E:RT2E032706.PNT",
+              "OPC1.U2RO.20DAS0E:RT2E046502.PNT",
+              "OPC1.U2RO.20DAS0E:RT2E032307.PNT"
+            ]
+          }
+        }
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047203.PNT",
+          "OPC1.U2RO.20DAS0E:TC2E047202.PNT"
+        ]
+      }
+    },
+    {
+      "name": "LMTD",
+      "symbol": ">",
+      "target": {
+        "avg": {
+          "LMTD_Avg1": [
+            "OPC1.U2RO.20DAS0E:TC2E047104.PNT",
+            "OPC1.U2RO.20DAS0E:TC2E047105.PNT",
+            "OPC1.U2RO.20DAS0E:TC2E047204.PNT"
+          ],
+          "LMTD_Avg2": [
+            "OPC1.U2RO.20DAS0B:TC2B023201.PNT",
+            "OPC1.U2RO.20DAS0B:TC2B023202.PNT"
+          ],
+          "LMTD_Avg3": [
+            "OPC1.U2RO.20DAS0E:RT2E032706.PNT",
+            "OPC1.U2RO.20DAS0E:RT2E046502.PNT",
+            "OPC1.U2RO.20DAS0E:RT2E032307.PNT"
+          ],
+          "LMTD_Avg4": [
+            "OPC1.U2RO.20DAS0E:RT2E046504.PNT",
+            "OPC1.U2RO.20DAS0E:RT2E046506.PNT"
+          ]
+        },
+        "single": []
+      },
+      "features": {
+        "avg": {},
+        "single": [
+          "OPC1.U2RO.20DAS0O:AI2O013305.PNT"
+        ]
+      }
+    }
+  ]
+}
