@@ -1,12 +1,13 @@
 mysql:
-  host: "192.168.31.31"
-  port: 33054
-  user: "bat_smart_sopt"
-  password: "P@ssw0rd"
-  database: "db_bat_tja1"
+  host: "hostname"
+  port: 3306
+  user: "username"
+  password: "password"
+  database: "db_name"
 
   # host: "192.168.40.44"
   # port: 3306
   # user: "root"
   # password: "P@ssw0rd"
+
   # database: "db_bat_tja1"
